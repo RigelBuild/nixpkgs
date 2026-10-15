@@ -3822,6 +3822,12 @@
     github = "bitbloxhub";
     githubId = 45184892;
   };
+  bittner = {
+    email = "peter@painless.software";
+    github = "bittner";
+    githubId = 665072;
+    name = "Peter Bittner";
+  };
   bizmyth = {
     email = "andrew.p.council@gmail.com";
     github = "bizmythy";
@@ -22734,6 +22740,12 @@
     github = "paumr";
     name = "Michael Bergmeister";
     githubId = 53442728;
+  };
+  paveg = {
+    email = "pavegy@gmail.com";
+    github = "paveg";
+    githubId = 12677991;
+    name = "Ryota Ikezawa";
   };
   pawelchcki = {
     email = "pawel.chcki@gmail.com";
